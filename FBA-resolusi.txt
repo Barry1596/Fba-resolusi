@@ -2,3 +2,5 @@ fba resolusi
 - Backend Nes Js
 - Front end Framework
 - Smart Home Resolution
+- Belajar VCS dan lain-lain
+- Membuat chanel youtube
