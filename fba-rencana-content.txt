@@ -1,10 +1,12 @@
 Rencana Konten
-
 - Javascript
   * ES6
   * Framework Js
-    ^ Angular
+     ^ Vue Js
+- Fundamental Data Structure
 - Php frameworks
     ^ Laravel
 - Interview
 - Vlog
+- Python
+- Tambah Commit
