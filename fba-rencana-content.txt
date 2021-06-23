@@ -10,3 +10,4 @@ Rencana Konten
 - Interview
 - Vlog
 - Python
+- Tambah Commit
